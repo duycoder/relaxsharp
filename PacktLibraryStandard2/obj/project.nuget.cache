@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mkqf9BWpuO9rokNmBNlEWnI9cZwvN1mRH68XfIWAAfVbaABAccmd1VA+hptfcugLOG3bNIFwmOEW4HfX8SSxSQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\CSharp11\\Relax\\PacktLibraryStandard2\\PacktLibraryStandard2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duypr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\duypr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

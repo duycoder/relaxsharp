@@ -1,0 +1,5 @@
+E:\Projects\CSharp11\Relax\Relax\obj\Debug\net7.0\Relax.csproj.AssemblyReference.cache
+E:\Projects\CSharp11\Relax\Relax\obj\Debug\net7.0\Relax.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CSharp11\Relax\Relax\obj\Debug\net7.0\Relax.AssemblyInfoInputs.cache
+E:\Projects\CSharp11\Relax\Relax\obj\Debug\net7.0\Relax.AssemblyInfo.cs
+E:\Projects\CSharp11\Relax\Relax\obj\Debug\net7.0\Relax.csproj.CoreCompileInputs.cache

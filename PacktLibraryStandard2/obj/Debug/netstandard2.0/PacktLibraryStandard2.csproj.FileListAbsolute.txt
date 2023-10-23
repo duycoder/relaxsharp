@@ -1,0 +1,10 @@
+E:\Projects\CSharp11\Relax\PacktLibraryStandard2\bin\Debug\netstandard2.0\PacktLibraryStandard2.deps.json
+E:\Projects\CSharp11\Relax\PacktLibraryStandard2\bin\Debug\netstandard2.0\PacktLibraryStandard2.dll
+E:\Projects\CSharp11\Relax\PacktLibraryStandard2\bin\Debug\netstandard2.0\PacktLibraryStandard2.pdb
+E:\Projects\CSharp11\Relax\PacktLibraryStandard2\obj\Debug\netstandard2.0\PacktLibraryStandard2.csproj.AssemblyReference.cache
+E:\Projects\CSharp11\Relax\PacktLibraryStandard2\obj\Debug\netstandard2.0\PacktLibraryStandard2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CSharp11\Relax\PacktLibraryStandard2\obj\Debug\netstandard2.0\PacktLibraryStandard2.AssemblyInfoInputs.cache
+E:\Projects\CSharp11\Relax\PacktLibraryStandard2\obj\Debug\netstandard2.0\PacktLibraryStandard2.AssemblyInfo.cs
+E:\Projects\CSharp11\Relax\PacktLibraryStandard2\obj\Debug\netstandard2.0\PacktLibraryStandard2.csproj.CoreCompileInputs.cache
+E:\Projects\CSharp11\Relax\PacktLibraryStandard2\obj\Debug\netstandard2.0\PacktLibraryStandard2.dll
+E:\Projects\CSharp11\Relax\PacktLibraryStandard2\obj\Debug\netstandard2.0\PacktLibraryStandard2.pdb
