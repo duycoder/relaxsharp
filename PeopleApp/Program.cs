@@ -115,8 +115,19 @@ bob.Children.Add(new() { Name = "Zoe" });
 //int e = 20;
 //WriteLine($"Before: d = {d}, e = {e}, f doesn't exist yet!");
 
-int d = 10;
-int e = 20;
+//int d = 10;
+//int e = 20;
 
-bob.PassingParameters(d, ref e, out int f);
-WriteLine($"After: d = {d}, e = {e}, f = {f}");
+//bob.PassingParameters(d, ref e, out int f);
+//WriteLine($"After: d = {d}, e = {e}, f = {f}");
+
+//Person sam = new()
+//{
+//    Name = "Sam",
+//    DateOfBirth = new(1969, 6, 25)
+//};
+
+//WriteLine(sam.Origin);
+//WriteLine(sam.Greeting);
+//WriteLine(sam.Age);
+
